@@ -110,4 +110,5 @@ func main(){
 	allLinks := getAllLinks("https://www.vodafone.com")
 	fmt.Println("all the links in the domain")
 	fmt.Println(allLinks)
+	
 }
